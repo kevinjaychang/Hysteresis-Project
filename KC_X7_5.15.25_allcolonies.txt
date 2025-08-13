@@ -1,4 +1,7 @@
-This was testing all colonies 1,2,3,4,5,6,7,8,9. From this one we filtered down to 2,8,9.
+Cells:Mach1
+This was testing all colonies 1,2,4,8,9, using the 6 wells each per inducer group (format 2). 
+From this one we filtered down to 2,8,9.
+
 
 Software Version	3.16.10
 
